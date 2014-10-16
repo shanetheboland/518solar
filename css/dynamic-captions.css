@@ -1,0 +1,26 @@
+.tp-caption.medium_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:20px;
+line-height:20px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.RGS_new {
+font-size:24px;
+line-height:34px;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+text-decoration:none;
+background-color:rgb(251, 176, 52);
+background-color:rgba(251, 176, 52, 0.701961);
+border-width:0px;
+border-color:rgba(0, 0, 0, 0);
+border-style:none;
+}
+
