@@ -3224,3 +3224,6 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background:#e99810;
 }
+ul {
+    list-style-type: none !important;
+}
