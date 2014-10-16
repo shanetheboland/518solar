@@ -1,0 +1,106 @@
+/* Custom Styles */
+body { font-family:'Pontano Sans'; }
+body { font-size:15px; }
+h1, h2, h3, h4, h5, h6, #slogan, .single-post-categories { font-family:'Pontano Sans'; }
+#top-elements { height:100px; }
+#logo h1 a, #logo .site-name a { background:transparent url( http://rgsenergy.com/images/rgsenergy_tiled_sm.png ) no-repeat 0 100%; width:300px; height:77px; }       
+#slogan { 
+    top:5px;
+    left:0px;
+}
+#slogan { font-size:12px; }
+.js_on .cufon-on #slogan { font-size:14px; }
+#navigation-menu { font-family:'Pontano Sans'; }
+#navigation-menu { font-size:18px; }
+h1 {font-size:1.5064em !important; }
+h2 {font-size:1.3336em !important; }
+h3 {font-size:1.2em !important; }
+h4 {font-size:1.0664em !important; }
+h5 {font-size:1em !important; }
+h6 {font-size:0.8664em !important; }
+.js_on .cufon-on h1 {font-size:1.84em !important; }
+.js_on .cufon-on h2 {font-size:1.744em !important; }
+.js_on .cufon-on h3 {font-size:1.5064em !important; }
+.js_on .cufon-on h4 {font-size:1.3336em !important; }
+.js_on .cufon-on h5 {font-size:1.2em !important; }
+.js_on .cufon-on h6 {font-size:1.0664em !important; }
+
+    
+#page-content-title #page-title h1,
+#page-content-title #page-title h2,
+#page-content-title #page-title h3,
+#page-content-title #page-title .single-post-categories {margin:0;padding:0;height:0;text-indent:-9000px;}
+
+.js_on .cufon-on #page-content-title #page-title h1,
+.js_on .cufon-on #page-content-title #page-title h2,
+.js_on .cufon-on #page-content-title #page-title h3,
+.js_on .cufon-on #page-content-title #page-title .single-post-categories {margin:0;padding:0;height:0;text-indent:-9000px;}
+
+.post-top h1, .post-top h2, .post-top h3 {font-size:1.2em !important; }
+.js_on .cufon-on .post-top h1, .js_on .cufon-on .post-top h2, .post-top h3 {font-size:1.5064em !important; }
+
+#sidebarSubnav h3 {font-size:1em !important; }
+.js_on .cufon-on #sidebarSubnav h3 {font-size:1.2em !important; }
+
+.portfolio-items-wrapper h2 {font-size:1.0664em !important; }
+.js_on .cufon-on .portfolio-items-wrapper h2 {font-size:1.3336em !important; }
+h2.portfolio-single-column {font-size:1.3336em !important; }
+.js_on .cufon-on h2.portfolio-single-column {font-size:1.744em !important; }
+
+h3.bottom-col-title {font-size:1.05em !important; }
+.js_on .cufon-on h3.bottom-col-title {font-size:1.3181em !important; }
+
+#gs-header #header-content { width:940px; }
+#c2-slider .slide-desc h2, #c2-slider .slide-desc { color:#333333; }
+#c2-slider .slide-desc h2 { font-size:1.8em !important; font-family:'Pontano Sans'; line-height:1.7; }
+#c2-slider .slide-desc p, #c2-slider .slide-desc ul { font-size:1.2em; line-height:1.7; }
+#c3-slider .sliding-text { color:#FFFFFF; font-size:1.2em; line-height:1.7; }
+
+
+    
+
+body, .post-top h2 a, .post-top h3 a, .posts-counter { color:#333333; }
+a, #isotope-options li a:hover, #isotope-options li a.selected { color:#13899B; }
+a:hover, .post-top h2 a:hover, .post-top h3 a:hover, #isotope-options li a { color:#333333; }
+.custom-formatting li.current_page_item > a, .custom-formatting li.current-menu-item > a, .custom-formatting li.current-cat > a, .custom-formatting li.current > a { color: #333333; }
+.custom-formatting li.current_page_item > a:hover, .custom-formatting li.current-menu-item > a:hover,.custom-formatting li.current-cat > a:hover, .custom-formatting li.current > a:hover { color: #13899B; }
+h1,h2,h3,h4,h5,h6 { color:#333333; }
+    #top-wrapper { background-color:#FBFBFB; }
+#slogan, #top-elements .phone-number, #top-elements .social_media_title, #search input.blur, #search input.inputbox_focus { color:#333333; }
+#slogan{ color:#333333; }
+    #gs-header, #piecemaker-header, #c1-header, #c2-header, #c3-header, #rev-slider-header { background-color:#FFFFFF; }
+#navigation-menu ul.sf-menu > li > a > span { color:#333333; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span, #navigation-menu ul.sf-menu > li.current_page_item > a > span { color:#333333; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span:hover, #navigation-menu ul.sf-menu > li.current_page_item > a > span:hover { color:#333333; }
+#navigation-menu ul.sf-menu > li > a:hover span { color:#333333; }
+#page-content-title #page-title h1, .js_on .cufon-on #page-content-title #page-title h1,
+#page-content-title #page-title h2, .js_on .cufon-on #page-content-title #page-title h2,
+#page-content-title #page-title h3, .js_on .cufon-on #page-content-title #page-title h3,
+#page-content-title #page-title .single-post-categories, .js_on .cufon-on #page-content-title #page-title .single-post-categories { color:#13899B; }
+    #page-content-title { background-color:#FBB034; }
+    #before-content { background: url("../common-images/home-page-before-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, #footer-bg { background: url("../common-images/home-page-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, .no_title_section #page-content { background-color:#FFFFFF; }
+h3.before_cont_title { color:#333333; }
+#before-content { color:#333333; }
+    #before-content { background-color:#FFFFFF; }
+    #bottom-bg { background-color: #666666; }
+h3.bottom-col-title { color: #FBB034; }
+#bottom, #bottom .textwidget, #bottom #wp-calendar, #bottom .posts-counter { color: #F5F5F5; }
+#bottom a { color: #F5F5F5; }
+#bottom a:hover { color: #000000; }
+h3.bottom-col-title, #bottom ul.small-thumb li, #bottom .widget_recent_entries li a, #bottom .widget_categories li a, #bottom .widget_pages li a, #bottom .widget_subpages li a, #bottom .widget_archive li a, #bottom .widget_links li a, #bottom .widget_rss li a, #bottom .widget_meta li a, #bottom .loginform li a, #bottom .widget_nav_menu li a {
+    background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent;
+}
+#bottom .widget_recent_comments li { background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent; }
+    #footer-bg { background-color: #666666; }
+body { background-color: #666666; }
+#footer, #footer_text { color: #F5F5F5; }
+#footer a, #footer_text a { color: #13899B; }
+#footer a:hover, #footer_text a:hover { color: #000000; }
+
+
+ 
+@media screen and (min-width: 720px) {
+    .u-design-fixed-menu-on.fixed-menu #top-wrapper { background-color:#FBFBFB; }
+}
