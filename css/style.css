@@ -3254,3 +3254,17 @@ ul {
     display:block;
     height:auto;
 }
+
+.image-block {
+    width:100%;
+    display:block;
+    height:auto;
+    text-align: center;
+    margin:0 auto;
+}
+.image-block img {
+    width:20%;
+    display:inline-block;
+    margin:0 auto;
+    text-align: center;
+}
