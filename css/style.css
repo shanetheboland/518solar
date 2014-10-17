@@ -3227,3 +3227,11 @@ input[type="submit"]:hover {
 ul {
     list-style-type: none !important;
 }
+.face {
+    width:100px;
+    height:auto;
+    border-radius:4px;
+    margin:0 auto;
+    text-align:center;
+    display:block;
+}
