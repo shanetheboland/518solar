@@ -3199,11 +3199,7 @@ span.theme-color {
         display:table;
         width: 920px;
     }
-    
 }
-
-
-
 .banner {
     background-image:url("../img/School.jpg");
     background-size:cover;
@@ -3251,4 +3247,10 @@ ul {
     font-size:16px;
     text-align: center;
     font-weight:700;
+}
+.content-block {
+    width:100%;
+    width:100vw;
+    display:block;
+    height:auto;
 }
