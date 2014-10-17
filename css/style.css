@@ -3210,6 +3210,12 @@ span.theme-color {
     width:100% !important;
     height:405px;
 }
+.banner-image {
+    width:100%;
+    width:100vw;
+    height:auto;
+    margin:0 auto;
+}
 input[type="submit"] {
     background:#fbb33a;
     border-radius:20px 2px 20px 2px;
