@@ -902,7 +902,7 @@ div.aligncenter {
 #sidebarSubnav h3{
     margin: 3px 0 0;
     padding-bottom: 7px;
-    background: transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
+
 }
 #sidebarSubnav a {
     text-decoration: none;
@@ -934,7 +934,6 @@ div.aligncenter {
 .custom-formatting li {
     margin: 0;
     width: 100%;
-    background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 5px 10px;
 }
 .custom-formatting li.current_page_item > a, .custom-formatting li.current-cat > a, .custom-formatting li.current > a {
     color: #333;
@@ -942,56 +941,11 @@ div.aligncenter {
 .custom-formatting li.current_page_item > a:hover, .custom-formatting li.current-cat > a:hover, .custom-formatting li.current > a:hover {
     color: #555;
 }
-.custom-formatting li li {
-    background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 20px 10px;
-}
-.custom-formatting li li li {
-    background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 35px 10px;
-}
-.custom-formatting li li li li {
-    background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 50px 10px;
-}
-.custom-formatting li li li li li {
-    background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 75px 10px;
-}
 
 .main-content-bg-dark .custom-formatting li {
     margin: 0;
     width: 100%;
-    background: transparent url(../images/arrow-3-light.png) no-repeat scroll 5px 10px;
 }
-.main-content-bg-dark .custom-formatting li li {
-    background: transparent url(../images/arrow-3-light.png) no-repeat scroll 20px 10px;
-}
-.main-content-bg-dark .custom-formatting li li li {
-    background: transparent url(../images/arrow-3-light.png) no-repeat scroll 35px 10px;
-}
-.main-content-bg-dark .custom-formatting li li li li {
-    background: transparent url(../images/arrow-3-light.png) no-repeat scroll 50px 10px;
-}
-.main-content-bg-dark .custom-formatting li li li li li {
-    background: transparent url(../images/arrow-3-light.png) no-repeat scroll 75px 10px;
-}
-
-.custom-formatting li a,
-.custom-formatting li a:hover,
-.custom-formatting li li a:hover,
-.custom-formatting li li li a:hover,
-.custom-formatting li li li li a:hover,
-.custom-formatting li li li li li a:hover,
-.custom-formatting .current_page_item ul a {
-    background: transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
-}
-.home-cont-box .custom-formatting li a,
-.home-cont-box .custom-formatting li a:hover,
-.home-cont-box .custom-formatting li li a:hover,
-.home-cont-box .custom-formatting li li li a:hover,
-.home-cont-box .custom-formatting li li li li a:hover,
-.home-cont-box .custom-formatting li li li li li a:hover,
-.home-cont-box .custom-formatting .current_page_item ul a {
-    background: transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
-}
-
 .widget_tag_cloud {
     padding: 10px 20px;
 }
@@ -1021,14 +975,12 @@ ul#recentcomments {
     width: 100%;
     padding: 5px 5px 5px 5px;
     width: inherit;
-    background: transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
 }
 .home-cont-box #recentcomments li {
     margin: 0;
     width: 100%;
     padding: 5px 5px 5px 5px;
     width: inherit;
-    background: transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
 }
 #recentcomments li span {
     background: transparent url(../images/recent-comment.png) no-repeat scroll 0 1px;
@@ -1628,7 +1580,6 @@ a.read-more-align-right span {
     z-index:101;
 }
 #main-menu {
-    background: url(../../common-images/main-menu-btm-border.png) repeat-x scroll 50% 100% transparent;
     width: 100%;
     position:relative;
     z-index:auto;
@@ -1896,7 +1847,6 @@ ul.list-5 li { background: transparent url(../../common-images/lifeboy.png) no-r
 ul.list-6 li { background: transparent url(../../common-images/calendar-task.png) no-repeat scroll 0 3px; }
 ul.list-7 li { background: transparent url(../../common-images/pin.png) no-repeat scroll 0 3px; }
 ul.list-8 li { background: transparent url(../../common-images/clock.png) no-repeat scroll 0 3px; }
-ul.list-9 li { background: transparent url(../images/double-arrow.png) no-repeat scroll 6px 7px; }
 ul.list-10 li { background: transparent url(../images/arrow-2.png) no-repeat scroll 6px 5px; }
 ul.list-11 li { background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 6px 5px; }
 
@@ -1942,7 +1892,6 @@ ul#c2-slider li ul.list-5 li, ul#c3-slider li ul.list-5 li { background: transpa
 ul#c2-slider li ul.list-6 li, ul#c3-slider li ul.list-6 li { background: transparent url(../../common-images/calendar-task.png) no-repeat scroll 0 7px !important; }
 ul#c2-slider li ul.list-7 li, ul#c3-slider li ul.list-7 li { background: transparent url(../../common-images/pin.png) no-repeat scroll 0 7px !important; }
 ul#c2-slider li ul.list-8 li, ul#c3-slider li ul.list-8 li { background: transparent url(../../common-images/clock.png) no-repeat scroll 0 7px !important; }
-ul#c2-slider li ul.list-9 li, ul#c3-slider li ul.list-9 li { background: transparent url(../images/double-arrow.png) no-repeat scroll 6px 12px !important; }
 ul#c2-slider li ul.list-10 li, ul#c3-slider li ul.list-10 li { background: transparent url(../images/arrow-2.png) no-repeat scroll 6px 10px !important; }
 ul#c2-slider li ul.list-10 li, ul#c3-slider li ul.list-11 li { background: transparent url(../images/arrow-3-dark.png) no-repeat scroll 6px 10px !important; }
 
@@ -2223,11 +2172,7 @@ a.light-round-button:focus, a.light-round-button:focus span {
     font-style: italic;
 }
 
-.underline-1 {
-    background: transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
-}
 .divider {
-    background: transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
     clear: both;
     display: block;
     margin-bottom: 20px;
@@ -2301,41 +2246,13 @@ a.light-round-button:focus, a.light-round-button:focus span {
     list-style-type: none;
     margin-left: 0;
     width: 100%;
-    background: url("../images/double-arrow.png") no-repeat scroll 3px 8px transparent;
 }
 #bottom .widget_recent_comments li {
     list-style-type: none;
     margin-left: 0;
     width: 100%;
     padding: 5px 0;
-    background: url("../images/heading_underline.png") repeat-x scroll 0 100% transparent;
-}
-#bottom .widget_recent_entries li li,
-#bottom .widget_categories li li,
-#bottom .widget_pages li li,
-#bottom .widget_subpages li li,
-#bottom .widget_archive li li,
-#bottom .widget_links li li,
-#bottom .widget_nav_menu li li {
-    background: url("../images/double-arrow.png") no-repeat scroll 13px 8px transparent;
-}
-#bottom .widget_recent_entries li li li,
-#bottom .widget_categories li li li,
-#bottom .widget_pages li li li,
-#bottom .widget_subpages li li li,
-#bottom .widget_archive li li li,
-#bottom .widget_links li li li,
-#bottom .widget_nav_menu li li li {
-    background: url("../images/double-arrow.png") no-repeat scroll 23px 8px transparent;
-}
-#bottom .widget_recent_entries li li li li,
-#bottom .widget_categories li li li li,
-#bottom .widget_pages li li li li,
-#bottom .widget_subpages li li li li,
-#bottom .widget_archive li li li li,
-#bottom .widget_links li li li li,
-#bottom .widget_nav_menu li li li li {
-    background: url("../images/double-arrow.png") no-repeat scroll 33px 8px transparent;
+
 }
 #bottom .widget_recent_entries li a,
 #bottom .widget_categories li a,
@@ -2349,7 +2266,6 @@ a.light-round-button:focus, a.light-round-button:focus span {
 #bottom .widget_nav_menu li a{
     padding: 2px 0 5px 20px;
     display: block;
-    background: url("../images/heading_underline.png") repeat-x scroll 0 100% transparent;
 }
 #bottom .widget_recent_entries li li a,
 #bottom .widget_categories li li a,
@@ -2492,7 +2408,7 @@ h3.bottom-col-title {
 #content-container .after_cont_row_1_title,
 #content-container .after_cont_row_2_title {
     font-size: 2.0em;
-    background:transparent url(../images/heading_underline.png) repeat-x scroll 0 100%;
+   
     margin: 10px 0 3px;
     padding:5px 0 7px;
 }
@@ -2665,7 +2581,6 @@ ul.small-thumb {
     margin-bottom: 0;
 }
 ul.small-thumb li {
-    background: url("../images/heading_underline.png") repeat-x scroll 0 100% transparent;
     clear: both;
     margin-left: 0;
     padding: 5px 0 10px;
@@ -2687,7 +2602,6 @@ ul.small-thumb .teaser-content {
     border: 1px solid #EAEAEA;
 }
 #bottom ul.small-thumb li { padding: 4px 0; }
-#bottom ul.small-thumb li { background: url("../images/heading_underline.png") repeat-x scroll 0 100% transparent; }
 /* End Image Custom Frame Formatting */
 
 /* Begin Styling the Native WP Gallery */

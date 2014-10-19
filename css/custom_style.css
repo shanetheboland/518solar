@@ -78,8 +78,6 @@ h1,h2,h3,h4,h5,h6 { color:#333333; }
 #page-content-title #page-title h3, .js_on .cufon-on #page-content-title #page-title h3,
 #page-content-title #page-title .single-post-categories, .js_on .cufon-on #page-content-title #page-title .single-post-categories { color:#13899B; }
     #page-content-title { background-color:#FBB034; }
-    #before-content { background: url("../common-images/home-page-before-content-top.png") repeat-x scroll 0 0; }
-    #home-page-content, #page-content, #footer-bg { background: url("../common-images/home-page-content-top.png") repeat-x scroll 0 0; }
     #home-page-content, #page-content, .no_title_section #page-content { background-color:#FFFFFF; }
 h3.before_cont_title { color:#333333; }
 #before-content { color:#333333; }
@@ -89,10 +87,6 @@ h3.bottom-col-title { color: #FBB034; }
 #bottom, #bottom .textwidget, #bottom #wp-calendar, #bottom .posts-counter { color: #F5F5F5; }
 #bottom a { color: #F5F5F5; }
 #bottom a:hover { color: #000000; }
-h3.bottom-col-title, #bottom ul.small-thumb li, #bottom .widget_recent_entries li a, #bottom .widget_categories li a, #bottom .widget_pages li a, #bottom .widget_subpages li a, #bottom .widget_archive li a, #bottom .widget_links li a, #bottom .widget_rss li a, #bottom .widget_meta li a, #bottom .loginform li a, #bottom .widget_nav_menu li a {
-    background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent;
-}
-#bottom .widget_recent_comments li { background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent; }
     #footer-bg { background-color: #666666; }
 body { background-color: #666666; }
 #footer, #footer_text { color: #F5F5F5; }

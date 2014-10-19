@@ -8,8 +8,6 @@
  Version:        1
 */
 
-@import url("u-design/styles/style1/css/style.css");
-
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 
@@ -79,7 +77,6 @@ table.custom-table tbody tr:hover td {
     z-index:101;
 }
 #main-menu {
-    background: url(../common-images/main-menu-btm-border.png) repeat-x scroll 50% 100% transparent;
     width: 100%;
     position:relative;
     z-index:auto;

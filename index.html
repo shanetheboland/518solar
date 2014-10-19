@@ -11,7 +11,6 @@
     <link rel="pingback" href="http://rgsenergy.com/xmlrpc.php">
     <link rel="shortcut icon" href="http://rgsenergy.com/wp-content/themes/u-design-child/favicon.ico">
     <style type="text/css"></style>
-    <link rel="stylesheet" href="css/css" type="text/css">
     <link rel="stylesheet" id="nextgen_gallery_related_images-css" href="css/nextgen_gallery_related_images.css" type="text/css" media="all">
     <link rel="stylesheet" id="dashicons-css" href="css/dashicons.min.css" type="text/css" media="all">
     <link rel="stylesheet" id="thickbox-css" href="css/thickbox.css" type="text/css" media="all">
@@ -273,7 +272,7 @@
 
                                                 <div class="gf_browser_chrome gform_wrapper" id="gform_wrapper_1">
                                                     <a id="gf_1" name="gf_1" class="gform_anchor"></a>
-                                                    <form action="//forms.brace.io/joshua.beach@rgsenergy.com" method="POST" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1">
+                                                    <form action="http://forms.brace.io/joshua.beach@rgsenergy.com" method="POST" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1">
                                                         <div class="gform_body">
                                                             <ul id="gform_fields_1" class="gform_fields top_label description_above">
                                                                 <li id="field_1_4" class="gfield               gfield_contains_required">
@@ -348,11 +347,11 @@
                                                             
 
                                                         </div>
-                                                        <h3 align="center" id="submitted">Thank You! I will be in touch shortly.</h3>
+                                                        <h1 align="center" id="submitted">Thank You! I will be in touch shortly.</h1>
                                                     </form>
                                                 </div>
                                                 <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1"></iframe>
-                                                <script type="text/javascript">
+                                                <!-- <script type="text/javascript">
                                                 jQuery(document).ready(function($) {
                                                     gformInitSpinner(1, 'http://rgsenergy.com/wp-content/plugins/gravityforms/images/spinner.gif');
                                                     jQuery('#gform_ajax_frame_1').load(function() {
@@ -428,7 +427,7 @@
                                                 jQuery(document).ready(function() {
                                                     jQuery(document).trigger('gform_post_render', [1, 1])
                                                 });
-                                                </script>
+                                                </script> -->
                                             </td>
                                         </tr>
                                     </tbody>
@@ -660,12 +659,13 @@
             </div>
         </div>
     </div>
-    <script>
+<script>
     document.getElementById('submit').onclick=function(){
-  // Remove any element-specific value, falling back to stylesheets
-  document.getElementById('submitted').style.display='block';
-};
-    </script>
+        document.getElementById('submitted').style.display='block';
+        document.getElementById('submit').style.display='none';
+        
+    };
+</script>
 </body>
 
 </html>
