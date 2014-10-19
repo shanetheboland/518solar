@@ -3270,4 +3270,5 @@ ul {
 }
 #submitted {
     text-align: center;
+    display:none;
 }
